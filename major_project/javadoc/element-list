@@ -1,0 +1,13 @@
+unnamed package
+main
+model
+model.API
+model.API.inputAPI
+model.API.outputAPI
+model.conversion
+model.cryptoInfo
+model.cryptoMap
+model.DB
+model.email
+view.components
+view.windows
